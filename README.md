@@ -15,3 +15,7 @@ A landing page for a new mobile video app.
 #### Skills:
 - Basic HTML
 - Basic CSS (without box-model and positioning)
+
+#### Redline
+
+https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/mocks/excursion_redline.png
